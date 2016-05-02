@@ -32,4 +32,17 @@ This image is used for:
 - link-check
 - spell-check
 
+
+Needs
+-----
+
+- sphinx
+- sphinx-addons
+- git
+- virtualenv
+- bash
+
+We do not need a theme, since this is for spell and link-check only, we use git in combination with a bash-scipt
+to check
+
 todo: add here more info
