@@ -12,9 +12,9 @@ Defaults
 
 The follwoing defaults are use in all images
 
-+-----+-----+
-|User | wtd |
-+-----+-----+
+User:wtd
+
+
 
 wtdstack-base
 =============
