@@ -14,3 +14,5 @@ Roadmap
 =======
 
 - Configure IRC/Slack/... notifications via env-vars
+- run tests if we have files like READEME and Changes in and on the right place
+- check if README is like we want it
